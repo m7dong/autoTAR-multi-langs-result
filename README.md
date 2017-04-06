@@ -4,5 +4,5 @@ This repository contains experiments' results for high-stake IR tool by [Gordon 
 
 ## References
 
-http://cormack.uwaterloo.ca/cal/
+http://cormack.uwaterloo.ca/cal/ <br />
 https://arxiv.org/pdf/1504.06868.pdf
